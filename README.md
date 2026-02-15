@@ -59,7 +59,7 @@ This design helped strengthen understanding of basic CAD operations and dimensio
 
 ---
 
-### Lamp Design
+### Light Switch Design
 The lamp was designed as a more practical and slightly more complex circular model.  
 Unlike the washer, this design required additional tools and more detailed shaping.  
 The goal was to create a useful object while practicing advanced features such as **Revolve, Extrude, and additional detailing tools**.  
