@@ -49,6 +49,21 @@ A holder designed for an MG90S servo motor to keep it fixed in place.
 [Open in Onshape](https://cad.onshape.com/documents/9335ca4558bd76b33f10d05b/w/2de47943e0d09dd8ba220a47/e/950f0e86ca705415d0aac0e9)
 
 ---
+## Note
+## CAD Designs Overview
 
-## Author
-Huda
+### Washer Design
+The washer was created as a simple circular design exercise using three basic tools in Onshape.  
+The goal of this model was to practice fundamental features such as **Sketch, Extrude, and Fillet** while designing a simple rotational part.  
+This design helped strengthen understanding of basic CAD operations and dimensional control.
+
+---
+
+### Lamp Design
+The lamp was designed as a more practical and slightly more complex circular model.  
+Unlike the washer, this design required additional tools and more detailed shaping.  
+The goal was to create a useful object while practicing advanced features such as **Revolve, Extrude, and additional detailing tools**.  
+
+This model demonstrates improved design complexity compared to the washer exercise.
+
+
